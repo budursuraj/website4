@@ -1,0 +1,119 @@
+.h005{
+    height: 50px;
+}
+
+.h01{
+    height: 100px;
+}
+.h015{
+    height: 150px;
+}
+.h02{
+    height: 200px;
+}
+.h03{
+    height: 300px;
+}
+.h04{
+    height: 400px;
+}
+.h05{
+    height: 500px;
+}
+.h06{
+    height: 600px;
+}
+.h07{
+    height: 700px;
+}
+.h08{
+    height: 800px;
+}
+
+
+
+
+.colp{
+    color:#fb4b6e;
+}
+.colp1{
+    color:black
+}
+.colp1:hover{
+    color:#fb4b6e;
+}
+.colb{
+    color:black  ;
+}
+.colnb{
+    color: #241f33;
+}
+
+
+
+.bgcp{
+    background-color: #fb4b6e;
+}
+
+
+
+
+
+.fs01{
+    font-size: 20px !important;
+}
+.fs02{
+    font-size: 25px !important;
+}
+.fs03{
+    font-size: 30px !important;
+}
+.fs04{
+    font-size: 75px !important;
+}
+
+
+.bt01{
+    
+    height: 50px;
+    background-color: #241f33;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.bt01:hover{
+   
+    height: 50px;
+    background-color:#d22044;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+.bt02{
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    border: 1px solid #241f33;
+}
+.bt02:hover{
+    height: 60px;
+    width: 60px;
+    border-radius: 10px;
+    border: 1px solid #d22044;
+  
+    
+
+}
+  
+    
+
+
+
+
+
+.img01{
+    border-radius: 15px;
+    box-shadow: 10px 8px 0px 5px #241f33;
+}
+
+
