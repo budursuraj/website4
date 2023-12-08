@@ -11,6 +11,9 @@
 .h02{
     height: 200px;
 }
+.h025{
+    height: 250px;
+}
 .h03{
     height: 300px;
 }
@@ -48,11 +51,17 @@
 .colnb{
     color: #241f33;
 }
+.colw{
+    color: white;
+}
 
 
 
 .bgcp{
     background-color: #fb4b6e;
+}
+.bgcdb{
+    background-color: hsl(255, 24%, 16%);
 }
 
 
@@ -100,10 +109,52 @@
     width: 60px;
     border-radius: 10px;
     border: 1px solid #d22044;
+}
+.bt03{
+    height: 50px;
+    background-color:white;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid black
+    
+}
+.bt03:hover{
+    height: 50px;
+    background-color:black;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid black
+    
+}
+.bt04{
+    height: 50px;
+   background-color: hsl(255, 24%, 16%);
+   color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+.bt04:hover{
+    height: 50px;
+   background-color:#d22044;
+   color: white;
+    border-radius: 10px;
+    border:1px solid white}
+
+
+
+
+
+.bx{
+    transition: 5s;
+    box-shadow: 0px 0px 0px 0px black;
+}
+.bx:hover{
+    box-shadow: 5px 8px 3px 3px black;
+}
   
     
 
-}
+
   
     
 
@@ -114,6 +165,13 @@
 .img01{
     border-radius: 15px;
     box-shadow: 10px 8px 0px 5px #241f33;
+}
+
+
+
+.br{
+    border: 1px solid black;
+    border-radius: 10px;
 }
 
 
